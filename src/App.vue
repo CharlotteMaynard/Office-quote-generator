@@ -12,7 +12,7 @@ export default {
         {
           name: "Andy",
           quote: "I Went To Cornell. Ever Heard Of It?",
-          imgSrc: "./assets/img/img/img/Andy.png",
+          imgSrc: "./assets/img/img/Andy.png",
         },
         {
           name: "Andy",
