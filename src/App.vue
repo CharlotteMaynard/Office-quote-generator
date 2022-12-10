@@ -133,85 +133,179 @@ export default {
 
         {
           name: "Jim",
-          quote: "",
+          quote:
+            "My roommate wants to meet everybody. Because I’m pretty sure he thinks I’m making Dwight up. He is very real.",
           imgSrc: "src/assets/img/Jim.png",
         },
         {
           name: "Jim",
-          quote: "",
+          quote:
+            "I gotta tell you, this baby is amazing. She gets me out of everything, and I… and I love her. I also love her very much.",
           imgSrc: "src/assets/img/Jim.png",
         },
         {
           name: "Jim",
-          quote: "",
+          quote: "Fact: Bears eat beets. Bears. Beets. Battlestar Galactica.",
           imgSrc: "src/assets/img/Jim.png",
         },
 
         {
           name: "Kelly",
-          quote: "",
+          quote: "Cafe Disco? More like Crap-ay Disco.",
           imgSrc: "src/assets/img/Kelly.png",
         },
         {
           name: "Kelly",
-          quote: "",
+          quote:
+            "If I get to stay and Ryan is laid off, I will kill myself, like Romeo and Juliet...the Claire Danes one.",
           imgSrc: "src/assets/img/Kelly.png",
         },
         {
           name: "Kelly",
-          quote: "",
+          quote:
+            "I can't control what I say to people. I spend the whole day talking.",
           imgSrc: "src/assets/img/Kelly.png",
         },
 
         {
           name: "Kevin",
-          quote: "",
+          quote:
+            "At least once a year I like to bring in some of my Kevin’s favorite chili.",
           imgSrc: "src/assets/img/Kevin.png",
         },
         {
           name: "Kevin",
-          quote: "",
+          quote:
+            "Put back everything in the vending machine, except the fruit.",
           imgSrc: "src/assets/img/Kevin.png",
         },
         {
           name: "Kevin",
-          quote: "",
+          quote:
+            "I hear Angela’s party will have double-fudge brownies. But it will also have Angela.",
           imgSrc: "src/assets/img/Kevin.png",
         },
 
         {
           name: "Meredith",
-          quote: "",
+          quote: "Tell ya one thing, I'm not gonna be a good mom tonight.",
           imgSrc: "src/assets/img/Meredith.png",
         },
         {
+          name: "Meredith",
+          quote:
+            "Yeah, I have this thing about men cutting or threatening to cut my throat. Don't try to cut my throat!",
+          imgSrc: "src/assets/img/Meredith.png",
+        },
+        {
+          name: "Meredith",
+          quote:
+            "I've never been cheated on, cheated, or been used to cheat with.",
+          imgSrc: "src/assets/img/Meredith.png",
+        },
+
+        {
           name: "Michael",
-          quote: "",
+          quote:
+            "Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked. But it’s not like this compulsive need like my need to be praised.",
           imgSrc: "src/assets/img/Michael.png",
         },
         {
+          name: "Michael",
+          quote: "That has sort of an oak-y afterbirth.",
+          imgSrc: "src/assets/img/Michael.png",
+        },
+        {
+          name: "Michael",
+          quote: "I… Declare…. Bankruptcy!",
+          imgSrc: "src/assets/img/Michael.png",
+        },
+
+        {
           name: "Oscar",
-          quote: "",
+          quote:
+            "Our office has an unusually large number of unusually large people.",
           imgSrc: "src/assets/img/Oscar.png",
         },
         {
+          name: "Oscar",
+          quote:
+            "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.",
+          imgSrc: "src/assets/img/Oscar.png",
+        },
+        {
+          name: "Oscar",
+          quote:
+            "Angela's engaged to a gay man. As a gay man, I'm horrified. As a friend of Angela's, horrified. As a lover of elegant weddings, I'm a little excited.",
+          imgSrc: "src/assets/img/Oscar.png",
+        },
+
+        {
           name: "Pam",
-          quote: "",
+          quote:
+            "Oh God no, Dwight isn’t my friend… Oh my God! Dwight’s kind of my friend!",
           imgSrc: "src/assets/img/Pam.png",
         },
         {
+          name: "Pam",
+          quote: "I feel God in this Chili’s tonight.",
+          imgSrc: "src/assets/img/Pam.png",
+        },
+        {
+          name: "Pam",
+          quote:
+            "I’m at a crucial point where I have sunk 4 hours into that copier, and I am not going to let it beat me like that wireless router did.",
+          imgSrc: "src/assets/img/Pam.png",
+        },
+
+        {
           name: "Phyllis",
-          quote: "",
+          quote:
+            "I like being in the same building as Bob. It keeps me honest.",
           imgSrc: "src/assets/img/Phyllis.png",
         },
         {
+          name: "Phyllis",
+          quote:
+            "Yeah! I love going to the bars with Bob. I wear a tend to wear something low cut, get men to flirt with me... And Bob beats them up ... What?",
+          imgSrc: "src/assets/img/Phyllis.png",
+        },
+        {
+          name: "Phyllis",
+          quote: "I thought he knew about the baby I gave away.",
+          imgSrc: "src/assets/img/Phyllis.png",
+        },
+
+        {
           name: "Stanley",
-          quote: "",
+          quote: "Are you out of your dang little pea-sized mind?",
           imgSrc: "src/assets/img/Stanley.png",
         },
         {
+          name: "Stanley",
+          quote: "If I don’t have some cake soon, I might die.",
+          imgSrc: "src/assets/img/Stanley.png",
+        },
+        {
+          name: "Stanley",
+          quote: "Boy have you lost your mind, cause I'll help you find it.",
+          imgSrc: "src/assets/img/Stanley.png",
+        },
+
+        {
           name: "Toby",
-          quote: "",
+          quote:
+            "Every Halloween I tell him the same thing; you can't bring weapons into the office, and every year he says the same thing; as soon as I get my weapons back I'm gonna kill you.",
+          imgSrc: "src/assets/img/Toby.png",
+        },
+        {
+          name: "Toby",
+          quote: "Let's just say I'll be up to my neck in jury duty.",
+          imgSrc: "src/assets/img/Toby.png",
+        },
+        {
+          name: "Toby",
+          quote: "Hey you a$$hole! You eat all that dog food yourself!?!",
           imgSrc: "src/assets/img/Toby.png",
         },
       ],
@@ -257,18 +351,15 @@ export default {
         <div class="h5">Quote generator</div>
       </div>
     </div>
-    <div class="row d-flex justify-content-center" style="top: 50px">
+    <div class="row d-flex justify-content-center" style="top: 10px">
       <div class="row d-flex justify-content-center">
         <img class="col-12 rounded-circle overflow-hidden" :src="imageSource" />
       </div>
-      <div
-        class="col-8 text-center border rounded-pill bg-light"
-        style="width: auto"
-      >
+      <div class="col-8 text-center border-2 bg-light" style="width: 50%">
         <p class="h5 text-black">"{{ quoteText }}"</p>
       </div>
     </div>
-    <div class="row" style="top: 60px">
+    <div class="row" style="top: 30px">
       <div class="col-12 text-center">
         <button class="btn border btn-primary btn-lg rounded" @click="newQuote">
           Generate new quote
