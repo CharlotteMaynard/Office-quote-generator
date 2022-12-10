@@ -310,9 +310,9 @@ export default {
         },
       ],
 
-      quoteText: "False!",
+      quoteText: "I declare.... Quote generator!!",
       quoteName: "",
-      imageSource: "",
+      imageSource: "src/assets/img/Michael.png",
     };
   },
 
